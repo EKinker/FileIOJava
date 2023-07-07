@@ -1,5 +1,4 @@
-package Step2;
-
+package Step2
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
